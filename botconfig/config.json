@@ -1,0 +1,48 @@
+{
+  "token": "ODA5NjMxMzQ4ODgwOTY1NjUy.YCX58w.mqbE_MbbcJT5dOaHGJQeDJrzW-8",
+  "prefix": ";;",
+  "clientsettings": {
+     "nodes": [
+        {
+           "host": "localhost",
+           "port": 80,
+           "password": "youshallnotpass"
+        }
+     ]
+  },
+  "spotify": {
+     "clientSecret": "93a4ad95a0c24b4bb7db0c83be6887d6",
+     "clientID": "673d60549e3b49578f7bffb35174e179"
+  },
+  "settings": {
+     "COMMENT": "time_delay 0 === insta leave",
+     "progressbar_emoji": "🔶",
+     "leaveOnEmpty_Channel": {
+        "enabled": true,
+        "time_delay": 60000
+     },
+     "LeaveOnEmpty_Queue": {
+        "enabled": true,
+        "time_delay": 30000
+     },
+     "selfDeaf": true,
+     "serverDeaf": true
+  },
+  "lyricssettings": {
+     "lyrics_finder": true,
+     "COMMENT": "my suggestion is to use ksoft_api on true and paste in the api key u can sign up, until u get the key use lyrics_finder which is way weaker but better the nothing",
+     "ksoft_api": {
+        "use_this_instead": false,
+        "api_key": ""
+     }
+  },
+  "ownerIDS": [
+     "459638057080193034"
+  ],
+  "status": {
+     "text": "tester",
+     "type": "PLAYING",
+     "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+     "url": "https://twitch.tv"
+  }
+}
